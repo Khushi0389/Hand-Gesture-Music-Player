@@ -13,8 +13,8 @@ Powered by [HandTrack.js](https://github.com/victordibia/handtrack.js) for real-
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/<your-username>/hand-gesture-music-player.git
-   cd hand-gesture-music-player
+   git clone https://github.com/Khushi0389/Hand-Gesture-Music-Player.git
+   cd Hand-Gesture-Music-Player
    ```
    
 Install a static server (if you don’t have one):
